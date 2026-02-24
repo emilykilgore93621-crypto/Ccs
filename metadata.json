@@ -1,0 +1,7 @@
+{
+  "name": "Practical Country Skills",
+  "description": "An interactive guide to woodworking, tools, and rural building projects with AI assistance and multi-lingual support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
